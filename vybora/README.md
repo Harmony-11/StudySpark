@@ -1,11 +1,11 @@
-# VYBORA ✦
+# MUSICALI ✦
 **Your world. On repeat.** A responsive social-platform prototype combining ideas from video sharing, music streaming, short-form creator videos, photo feeds, stories, and messaging.
 
 ## Preview
 Open [index.html](./index.html) in a browser, or deploy this folder as a static site.
 
 ## Prototype features
-- Responsive violet/dark interface with desktop sidebar and mobile navigation
+- Responsive dark interface with a customizable palette of 1,000 generated colours with desktop sidebar and mobile navigation
 - Feed filters for videos, music, dance, style, and art
 - Search across sample posts
 - Interactive likes and follow buttons
